@@ -2,6 +2,7 @@
 -- Refer to the wiki for more information.
 -- https://wiki.hypr.land/Configuring/Start/
 require("configs.monitors")
+require("configs.workspaces")
 
 local programs = require("configs.programs")
 local terminal    = programs.terminal
